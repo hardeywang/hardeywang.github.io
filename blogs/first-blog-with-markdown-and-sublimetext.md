@@ -22,6 +22,7 @@ sublime text以及其plugin的安装见官方的文档。plugin文档以及markd
 
 - 使用Sublime text Build命令来快速导出html文件，结合puer就能够实现方便快速的预览。当然，如果能够有支持实时预览对工具就更好了。
 - 使用command palette可以快速的打开markdown cheat sheet，这是一个示例文件,用过Build可以生成效果预览。这对markdown初学来说非常有用。
+- 使用[TOC]来增加文档目录.
 
 
 ## 此博客由github pages驱动
